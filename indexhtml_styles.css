@@ -152,7 +152,7 @@ nav ul li a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('../images/portfolio-bg.jpg');
+    background-image: url('portfolio-bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment:scroll;
@@ -533,7 +533,7 @@ input::placeholder{
     scroll-snap-align: start;
     min-height: 100vh;
     width: 100%;
-    background-image: url('../images/portfolio-bg.jpg');
+    background-image: url('portfolio-bg.jpg');
     background-position:center;
     background-repeat: no-repeat;
     background-size:cover;
